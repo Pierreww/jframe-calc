@@ -1,3 +1,4 @@
 # jframe-calc
 
-Simple calculator program created with Java
+A code for simple calculator program created with java
+
